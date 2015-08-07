@@ -55,11 +55,17 @@
     text-align: center;
     margin: auto;
     margin-top: -16px;
+    img {
+      display: inline-block !important;
+    }
   }
 }
 
 .navbar {
   padding-bottom: 150px;
+  .navbar-header {
+     text-align: center;
+  }
 }
 
 // Override box-shadow collapse menu

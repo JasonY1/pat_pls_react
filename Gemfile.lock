@@ -186,6 +186,8 @@ GEM
       i18n
       polyamorous (~> 1.2)
     rdoc (4.2.0)
+    react-bootstrap-rails (0.23.7)
+      rails (>= 3.1)
     react-rails (1.1.0)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
@@ -246,6 +248,7 @@ DEPENDENCIES
   jquery-rails
   paperclip (~> 4.3)
   rails (= 4.2.1)
+  react-bootstrap-rails
   react-rails (~> 1.0)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)

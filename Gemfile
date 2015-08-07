@@ -7,6 +7,7 @@ gem 'rails', '4.2.1'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'react-bootstrap-rails'
 gem 'sass-rails', '~> 5.0'
 gem 'react-rails', '~> 1.0'
 gem 'devise', '3.4.1'
