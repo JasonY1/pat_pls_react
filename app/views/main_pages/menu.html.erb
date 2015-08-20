@@ -1,7 +1,5 @@
-
 <div class="container menu">
   <h1>Menu</h1>
-  <%# put a div surrounding this%>
   <% @categories.each do |category| %>
     <div class="<%= cycle("odd", "even") %> col-sm-12 menuitem">
       <% if !category.products.any? do %>
